@@ -1,2 +1,3 @@
-# Projektit.1
-Projektit ajalta 2025-2026
+# Indexed-Record_store
+
+Indexed record storage that keeps track of inputted info, eg. student information or gorcery store price and product information.
